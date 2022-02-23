@@ -1,0 +1,7 @@
+Segue abaixo as análises feitas a respeito dos Alunos:
+ 
+ Quantidade de Anuncio: 274 
+ Quantidade de Orgânico: 226 
+ Quantidade que passaram pelo Youtube: 155
+ Quantidade que passaram pelo Face/Instragam: 226
+ Quantidade que passaram pelo Site: 73
